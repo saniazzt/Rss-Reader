@@ -1,1 +1,2 @@
 # Rss-Reader
+This project is a simple Rss Reader which is done in java programming language. The user can work with this tool via a command line menu. The options of this program unclude: 1- extracting title from website url, 2- extracting html source from url, 3- extracting Rss feed from url, 4- Saving all the html and rss links of each data into a text file, 5- Showing a summary of each website in the command line. This project was implemented using Jsoup library and javax tools.
