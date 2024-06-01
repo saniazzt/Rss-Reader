@@ -1,0 +1,2 @@
+Cay Horstmann's Unblog;https://horstmann.com/unblog/index.html;https://horstmann.com/unblog/rss.xml
+Blog | Julia Silge;https://juliasilge.com/blog/index.html;https://juliasilge.com/blog/rss.xml
